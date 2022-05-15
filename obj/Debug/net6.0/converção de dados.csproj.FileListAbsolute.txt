@@ -1,0 +1,15 @@
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\bin\Debug\net6.0\converção de dados.exe
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\bin\Debug\net6.0\converção de dados.deps.json
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\bin\Debug\net6.0\converção de dados.runtimeconfig.json
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\bin\Debug\net6.0\converção de dados.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\bin\Debug\net6.0\converção de dados.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\obj\Debug\net6.0\converção de dados.csproj.AssemblyReference.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\obj\Debug\net6.0\converção de dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\obj\Debug\net6.0\converção de dados.AssemblyInfoInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\obj\Debug\net6.0\converção de dados.AssemblyInfo.cs
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\obj\Debug\net6.0\converção de dados.csproj.CoreCompileInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\obj\Debug\net6.0\converção de dados.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\obj\Debug\net6.0\refint\converção de dados.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\obj\Debug\net6.0\converção de dados.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\obj\Debug\net6.0\converção de dados.genruntimeconfig.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\converção de dados\obj\Debug\net6.0\ref\converção de dados.dll
